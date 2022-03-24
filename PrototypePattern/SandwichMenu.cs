@@ -1,7 +1,7 @@
-﻿using System.Collections.Generic;
-
-namespace PrototypePattern
+﻿namespace PrototypePattern
 {
+    using System.Collections.Generic;
+
     public class SandwichMenu
     {
         private Dictionary<string, SandwichPrototype> sandwiches;

@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace PrototypePattern
+﻿namespace PrototypePattern
 {
+    using System;
+
     public class Sandwich : SandwichPrototype
     {
         private readonly string bread;

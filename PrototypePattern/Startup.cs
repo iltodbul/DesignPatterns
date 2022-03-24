@@ -1,8 +1,6 @@
 ﻿namespace PrototypePattern
 {
-    using System;
-
-    class Startup
+    public class Startup
     {
         static void Main(string[] args)
         {
