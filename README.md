@@ -1,4 +1,5 @@
 # DesignPatterns
+In this repository are only 6 of 23 as an code example. Two of each type. For more <a target="_blank" href="https://github.com/anupavanm/csharp-design-patterns-for-humans">here</a> and/or <a target="_blank" href="https://refactoring.guru/design-patterns">here</a>. 
 
 Types of Design Patterns
 -----------------
